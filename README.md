@@ -1,2 +1,2 @@
 # Phonebook
-Phonebook Web App created with Node Express
+Phonebook Web App created with ExpressJS
